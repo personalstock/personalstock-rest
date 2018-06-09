@@ -2,7 +2,6 @@ package personalstock.restapi.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import personalstock.restapi.entity.Account;
 import personalstock.restapi.entity.Video;
 import personalstock.restapi.repository.VideoRepository;
 

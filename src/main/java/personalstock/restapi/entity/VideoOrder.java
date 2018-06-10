@@ -29,6 +29,8 @@ public class VideoOrder {
 
     private float price;
 
+    private String description;
+
     @ManyToOne
     private Account poster;
 

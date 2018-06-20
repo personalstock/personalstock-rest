@@ -23,3 +23,10 @@ m
 =src/main/java/personalstock/restapi/service/VideoService.java,7/a/7ae66143b62e7414b849dc023d7ba5d9f18ce2ba
 k
 ;src/main/java/personalstock/restapi/RestApiApplication.java,e/0/e012c54cc83b0d446fbe0f655e1fe117bfb1f152
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+Y
+)src/main/resources/application.properties,0/6/06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+F
+translation.properties,a/3/a3e45810d814e8d7c0a8a22341d39cf811e7f333
